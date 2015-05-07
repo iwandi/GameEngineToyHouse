@@ -7,6 +7,13 @@ namespace GameEngineToyHouse
 {
     public class RenderManager
     {
+
+
+        struct CompositionNode
+        {
+
+        }
+
         struct Renderlet
         {
 
